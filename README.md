@@ -9,7 +9,7 @@
 
 ## Output : The output weights may look like follow
 
-Since the output weight concentrations were expected in the heatmap form, we've used "palsma" mapping for the concentration.
+Since the output weight concentrations were expected in the heatmap form, we've used "plasma" mapping for the concentration.
 
 ![alt text](https://github.com/saarques/Deep_learning_notebooks/blob/master/Sample_output_images/output_image_test0%200-11.jpg "Weight Concentration")
 
