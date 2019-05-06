@@ -13,7 +13,7 @@ Since the output weight concentrations were expected in the heatmap form, we've 
 
 ![alt text](https://github.com/saarques/Deep_learning_notebooks/blob/master/Sample_output_images/output_image_test0%200-11.jpg "Weight Concentration")
 
-![alt text](https://github.com/saarques/Deep_learning_notebooks/blob/master/Sample_output_images/output_image_test0%200-11.jpg "Weight Concentration")
+![alt text](https://github.com/saarques/Deep_learning_notebooks/blob/master/Sample_output_images/output_image_test0%201-29.jpg "Weight Concentration")
 
 Other sample images may be found in the respective folders.
 
