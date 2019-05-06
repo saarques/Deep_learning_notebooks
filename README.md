@@ -9,6 +9,8 @@
 
 ## Output : The output weights may look like follow
 
+Since the output weight concentrations were expected in the heatmap form, we've used "palsma" mapping for the concentration.
+
 ![alt text](https://github.com/saarques/Deep_learning_notebooks/blob/master/Sample_output_images/output_image_test0%200-11.jpg "Weight Concentration")
 
 ![alt text](https://github.com/saarques/Deep_learning_notebooks/blob/master/Sample_output_images/output_image_test0%200-11.jpg "Weight Concentration")
@@ -19,7 +21,7 @@ Other sample images may be found in the respective folders.
 ### Steps
  1. I've used Tensorflow in the backend with Keras to train the model with the help of convolutional neural networks which are the popular approach on such type of data.
 
- 2. To initialize any work, one needs more and more information about the data to be used, so I did the same and studied various types of cancer cells present.
+ 2. To initiate any work, one needs more and more information about the data to be used, so I did the same and studied various types of cancer cells present.
 
  3. After data wrangling and analysis, I created the model in this order [Conv2D -> relu]*2 -> MaxPool2D -> Dropout]*2 -> Flatten -> Dense # -> Dropout -> Out
 
